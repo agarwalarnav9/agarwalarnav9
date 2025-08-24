@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Agarwal</h1>
 <h3 align="center">Software developer</h3>
 
-- 🌱 I’m currently learning **Javascript and React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m actively looking for **full time SDE roles**
 
